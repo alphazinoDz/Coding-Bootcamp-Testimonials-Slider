@@ -141,6 +141,12 @@ html{
     .slide-img img{
         width: 400px;
     }
+    .author-text span{
+        color: hsl(240, 18%, 77%);
+        font-weight: 500;
+        display: revert;
+
+    }
     .btns{
         top: 415px;
         transform: translate(0);
